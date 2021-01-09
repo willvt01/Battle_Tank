@@ -26,3 +26,4 @@ void ATestingLongSword::Tick(float DeltaTime)
 
 testtttttttttttttt
 
+add new hero
