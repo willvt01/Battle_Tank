@@ -24,3 +24,5 @@ void ATestingLongSword::Tick(float DeltaTime)
 
 }
 
+testtttttttttttttt
+
